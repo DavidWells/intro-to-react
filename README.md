@@ -62,4 +62,26 @@ export default App; // Export the App component for use in index.js
 
 # `/src/App.js` Add Props
 
+# Add Prop type validation
+
+# Add defaultProps
+
 # `/src/App.js` Add State
+
+# Add customMethod to Class
+
+# Attach customMethod as click handler
+
+# Add `componentDidMount`
+
+# Build to production
+
+`npm run build`
+
+# Deploy to Production
+
+```bash
+npm i surge -g
+# From build directory
+surge
+```
