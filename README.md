@@ -72,6 +72,8 @@ export default App; // Export the App component for use in index.js
 
 # Attach customMethod as click handler
 
+Checkout `https://github.com/DavidWells/intro-to-react/tree/step-2/src` for the completed code up to this point
+
 # Add `componentDidMount`
 
 # Build to production
