@@ -35,7 +35,7 @@ ReactDOM.render(
 
 # `/src/App.js` Overview
 
-```jsx
+```js
 import React, { Component } from 'react'; // Import react dependancy and React.Component
 import logo from './logo.svg'; // Import an SVG for use in img tag
 import './App.css'; // Import App styles
